@@ -5,7 +5,7 @@
 A Porgram to test Fitt's Law   
 This program measures:
 - Homing Time (Time from keyboard to pointing device)
-- Positioning Time (Time from cusor home to target unitl click)
+- Positioning Time (Time from cusor home to target)
 
 
 # Personal Notes #
