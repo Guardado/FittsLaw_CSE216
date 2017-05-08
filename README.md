@@ -2,7 +2,7 @@
 
 -> Demo [here](https://guardado.github.io/FittsLaw_CSE216/)
 
-A Porgram to measure Fitt's Law   
+A Porgram to test Fitt's Law   
 This program measures:
 - Homing Time (Time from keyboard to pointing device)
 - Positioning Time (Time from cusor home to target unitl click)
