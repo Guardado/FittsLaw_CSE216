@@ -278,7 +278,7 @@ function onButtonHomeOut() {
         flagFiringPT = true;
         positioningStartTime = new Date();
         positioningTimeClock();
-        positioningIntervalID = setInterval(positioningTimeClock, 50);
+        positioningIntervalID = setInterval(positioningTimeClock, 20);
         
     } else {
         if (flagFiringPT == false) {
@@ -330,7 +330,7 @@ function onKeyDown(key) {
             // FIRE Homing Timer Clock
             homingStartTime = new Date();
             homingTimeClock();
-            homingIntervalID = setInterval(homingTimeClock, 50);
+            homingIntervalID = setInterval(homingTimeClock, 20);
         }
     }
 };
